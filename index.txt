@@ -1,1 +1,1 @@
-Ligne modifiée depuis la branche update-index.
+Ligne finale après fusion des branches.
